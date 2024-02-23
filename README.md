@@ -4,7 +4,7 @@ Este repositorio contiene los recursos usados para el taller de Introducción al
 
 ## Notebooks
 
-1. [Qubits](https://github.com/ferbetanzo/CREATE-V-Taller-QC/blob/main/1.%20Qubits.ipynb) <a target="_blank" href="https://colab.research.google.com/github/ferbetanzo/CREATE-V-Taller-QC/blob/main/1.%20Qubits.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-2. Circuitos cuánticos
+| Notebook | Google Colab link |
+|---|---|
+| 1. [Qubits](https://github.com/ferbetanzo/CREATE-V-Taller-QC/blob/main/1.%20Qubits.ipynb) | <a target="_blank" href="https://colab.research.google.com/github/ferbetanzo/CREATE-V-Taller-QC/blob/main/1.%20Qubits.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 2. Circuitos cuánticos | |
